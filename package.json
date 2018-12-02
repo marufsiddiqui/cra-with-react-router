@@ -1,5 +1,5 @@
 {
-  "name": "cra2-1",
+  "name": "cra-with-react-router",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
